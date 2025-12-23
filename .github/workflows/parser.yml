@@ -1,0 +1,68 @@
+name: Parsing & Push Data
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  dump-jp-update:
+    environment: "GitHub Action"
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          lfs: true
+
+      - name: Update remote branch references
+        run: git fetch --all --tags
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.13.x'
+        
+      - name: Configure Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Get the necessary files
+        run: python get_excel.py --base-url ${{ secrets.BASE_URL }}
+
+      - name: Parse the files
+        run: python parse.py
+
+      - name: Save content temporary
+        id: save_data
+        shell: bash
+        run: |
+          TEMP_DIR="$RUNNER_TEMP/data_backup"
+          mkdir -p "$TEMP_DIR"
+          cp -a CharacterMessanger "$TEMP_DIR/"
+          cp -a CharacterScenario "$TEMP_DIR/"
+          echo "temp_path=$TEMP_DIR" >> $GITHUB_OUTPUT
+
+      - name: Switch Branch
+        run: |
+            git reset --hard
+            git clean -fd
+            git checkout dump || git checkout -b dump
+
+      - name: Restore content
+        shell: bash
+        run: |
+          TEMP_PATH="${{ steps.save_data.outputs.temp_path }}"
+          rm -rf CharacterMessanger CharacterScenario
+          cp -a "$TEMP_PATH/CharacterMessanger" .
+          cp -a "$TEMP_PATH/CharacterScenario" .
+
+      - name: Commit and Push
+        run: |
+          git add CharacterMessanger CharacterScenario
+          git commit -m "Update Data: $(date +'%Y-%m-%d %H:%M:%S')" --allow-empty
+          git push origin dump
