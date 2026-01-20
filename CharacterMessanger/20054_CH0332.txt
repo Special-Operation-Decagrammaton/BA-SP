@@ -1,0 +1,239 @@
+200540010 | 1
+MessageKR: 선생님께서는 아마도 지금
+MessageJP: いくら先生といえど
+
+200540020 | 0
+MessageKR: 푹 주무시고 계시겠죠
+MessageJP: こんな時間には眠っていますよね
+
+200540020 | 0
+MessageKR: 사실 저도 예약 모모톡으로
+MessageJP: もしも起きているのなら早く寝てください
+
+200540020 | 0
+MessageKR: 보내드리고 있는 것이지만요
+MessageJP: なお、このメッセージは予約送信です
+
+200540030 | 0
+MessageKR: 그러면 선생님
+MessageJP: それでは先生
+
+200540030 | 0
+MessageKR: 시간이 되면 깨워 드릴 테니
+MessageJP: 明日の朝をどうぞお楽しみに
+
+200540030 | 0
+MessageKR: 너무 놀라지 말고 일어나 주세요
+MessageJP: ちゃんと起きてくださいね
+
+200540040 | 1
+MessageKR: 똑똑똑
+MessageJP: もしもーし
+
+200540050 | 0
+MessageKR: 일어나세요 선생님
+MessageJP: もしかしてお昼寝されていますか？
+
+200540060 | 0
+MessageKR: 점심도 드셨을 테고
+MessageJP: 起きてください、先生
+
+200540060 | 0
+MessageKR: 정오 휴식 시간도 끝나 간답니다
+MessageJP: そろそろお昼休みが終わりますよ
+
+200540070 | 3
+MessageKR: 으어어어……
+MessageJP: うぅぅ……
+
+200540070 | 3
+MessageKR: 일어납니다…… 일어났어요……
+MessageJP: いま起きました……
+
+200540080 | 4
+MessageKR: 네
+MessageJP: 良かったです
+
+200540080 | 4
+MessageKR: 감사합니다
+MessageJP: リフレッシュできていれば良いのですが
+
+200540090 | 4
+MessageKR: 그러면 오후 업무도
+MessageJP: 午後の業務も頑張りましょう
+
+200540090 | 4
+MessageKR: 함께 힘내 봐요
+MessageJP: 私もお手伝いに参りますので
+
+200540100 | 1
+MessageKR: 저녁이 되었네요
+MessageJP: 暗くなってきましたね
+
+200540110 | 3
+MessageKR: 그래. 저녁이 되었네.
+MessageJP: もう夜だね
+
+200540120 | 4
+MessageKR: 후후
+MessageJP: ふふ
+
+200540120 | 4
+MessageKR: 그렇다는 것은 선생님께
+MessageJP: いよいよです
+
+200540120 | 4
+MessageKR: 제 실외용 휠체어의
+MessageJP: 屋外用車椅子の真骨頂を
+
+200540120 | 4
+MessageKR: 진면목을 보여 드릴 수 있다는 뜻이겠고요
+MessageJP: 先生にお見せする時が来ました
+
+200540130 | 3
+MessageKR: 오는가…… 각오는 되어 있다!
+MessageJP: 覚悟はできてるよ……！
+
+200540140 | 4
+MessageKR: 의욕 넘치게 보이는 대답
+MessageJP: やる気に満ちたご返答
+
+200540140 | 4
+MessageKR: 감사합니다
+MessageJP: ありがとうございます
+
+200540150 | 4
+MessageKR: 잊지 못할 기억을 선물해 드릴게요
+MessageJP: 忘れられない思い出をプレゼントいたします
+
+200540160 | 0
+MessageKR: 오늘 하루
+MessageJP: 今日も1日
+
+200540170 | 0
+MessageKR: 수고하셨습니다
+MessageJP: お疲れさまでした
+
+200540180 | 3
+MessageKR: 길었으면서 짧은 듯한, 짧았으면서 길었던 듯한……
+MessageJP: 長かったような、短かったような……
+
+200540190 | 4
+MessageKR: 후후
+MessageJP: ふふ
+
+200540190 | 4
+MessageKR: 저도 그렇게 느꼈답니다
+MessageJP: 私もそう感じていましたよ
+
+200540200 | 4
+MessageKR: 내일은 또 다른 하루가 시작되겠죠
+MessageJP: すぐにまた新しい1日が訪れます
+
+200540200 | 4
+MessageKR: 다음의 태양이 떠오를 테고요
+MessageJP: 明日には明日の太陽が昇ります
+
+200540200 | 4
+MessageKR: 푹 주무세요 선생님
+MessageJP: ゆっくりお休みくださいね
+
+200540210 | 3
+MessageKR: 히마리도 잘 자
+MessageJP: ヒマリもおやすみ
+
+200540220 | 4
+MessageKR: 그리고 내일의
+MessageJP: そして明日の
+
+200540220 | 4
+MessageKR: 초천재병약미소녀 라이프 스태프 역시
+MessageJP: 超天才病弱美少女ライフスタッフの活躍
+
+200540220 | 4
+MessageKR: 기대해 주시고요
+MessageJP: 楽しみにしていてくださいね
+
+200540230 | 3
+MessageKR: 그것만은 포기하지 않는구나……
+MessageJP: それだけは譲らないんだね……
+
+200540240 | 1
+MessageKR: ……?
+MessageJP: 私としたことが！
+
+200540250 | 0
+MessageKR: 선생님, 지금 몇 시인가요?!
+MessageJP: 先生、すぐに伺います
+
+200540260 | 3
+MessageKR: 오, 일어났구만. 히마리.
+MessageJP: あ、おはよう、ヒマリ
+
+200540260 | 3
+MessageKR: 히마리가 늦잠을 자다니 아깝네~ 사진 찍어 둘걸~
+MessageJP: ヒマリが寝坊だなんて珍しいね
+
+200540270 | 4
+MessageKR: ……!
+MessageJP: まさか……
+
+200540270 | 4
+MessageKR: 이럴수가…….
+MessageJP: 完全無欠超天才病弱美少女ハッカーである私が
+
+200540270 | 4
+MessageKR: 완전무결초천재병약미소녀해커인 제가, 이런 실수를 하다니……
+MessageJP: このような失態を……！
+
+200540280 | 3
+MessageKR: 식사 가져다줄 테니까 기다리고 있어~
+MessageJP: ご飯、持っていってあげるね
+
+200540290 | 0
+MessageKR: 똑똑똑
+MessageJP: おはようございます
+
+200540300 | 0
+MessageKR: 안녕히 주무셨나요?
+MessageJP: もう起きていらっしゃいますか？
+
+200540310 | 3
+MessageKR: 어느 사이엔가 내 방에 돌아와 있었어……
+MessageJP: いつの間にか自分の部屋に戻ってた……
+
+200540320 | 4
+MessageKR: 음 그게
+MessageJP: あの
+
+200540320 | 4
+MessageKR: 그러니까
+MessageJP: それがですね
+
+200540330 | 4
+MessageKR: 에이미가 저를 깨우러 와서는
+MessageJP: エイミが私を起こしに来てくれて
+
+200540330 | 4
+MessageKR: 선생님을 모시고, 선생님 방으로 데려갔지 뭔가요
+MessageJP: その時に先生をお部屋まで送り届けてくれたんですよ
+
+200540340 | 3
+MessageKR: 그랬구나……
+MessageJP: そうだったんだ……お礼を言っておくね
+
+200540350 | 4
+MessageKR: 자, 자!
+MessageJP: ええ、きっと喜びます
+
+200540350 | 4
+MessageKR: 오늘부터 다시 시작이에요, 선생님!
+MessageJP: では再スタートですよ、先生！
+
+200540360 | 4
+MessageKR: 저는 또다시 힘차게
+MessageJP: 私はまた元気に
+
+200540360 | 4
+MessageKR: 선생님만의 라이프 스태프로 돌아갈 테니까요?
+MessageJP: 先生だけのライフスタッフに戻りますからね？

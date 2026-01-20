@@ -1,0 +1,363 @@
+101330010 | 1
+MessageKR: 선생. 수송선에서 생활은 어때?
+MessageJP: 輸送船での暮らしはどうかしら
+
+101330020 | 0
+MessageKR: 불편한 점이 있다면 말해.
+MessageJP: 不便なことがあれば言ってちょうだい
+
+101330020 | 0
+MessageKR: 최대한 개선해 볼 테니까.
+MessageJP: 可能な範囲で改善するわ
+
+101330030 | 3
+MessageKR: 너무 편해!
+MessageJP: すごく快適だよ！
+
+101330030 | 3
+MessageKR: 덕분에 잘 지내고 있어!
+MessageJP: 何不自由なく過ごしてるよ！
+
+101330040 | 4
+MessageKR: 그렇다면 다행이네.
+MessageJP: それなら良いのだけれど
+
+101330050 | 4
+MessageKR: 혹시라도 부탁하고 싶은 게 있다면
+MessageJP: 要望はいつでも受け付けているから
+
+101330060 | 4
+MessageKR: 언제든 말해줘.
+MessageJP: 遠慮は不要よ
+
+101330070 | 3
+MessageKR: 리오는 불편한 곳 없지?
+MessageJP: リオは大丈夫？
+
+101330080 | 4
+MessageKR: 응? 나야…… 당연히 그런데.
+MessageJP: 私？
+
+101330080 | 4
+MessageKR: 갑자기 왜?
+MessageJP: 私も特に問題はないわ……
+
+101330090 | 0
+MessageKR: 메이드 로봇 건이야
+MessageJP: メイドロボットの件よ
+
+101330100 | 0
+MessageKR: 선생. 보고할게.
+MessageJP: 結果を報告するわ
+
+101330110 | 0
+MessageKR: 결론만 말해서
+MessageJP: 結論を言うと
+
+101330110 | 0
+MessageKR: 메이드 복 빌리는 건은
+MessageJP: メイド服は
+
+101330110 | 0
+MessageKR: 실패야.
+MessageJP: 借りられなかった
+
+101330120 | 0
+MessageKR: 하지만 논리적으로
+MessageJP: とはいえ改めて考えてみたのだけれど
+
+101330120 | 0
+MessageKR: 가사도우미 아방가르드 군을
+MessageJP: 家事手伝いのアバンギャルド君を
+
+101330130 | 0
+MessageKR: 메이드 로봇 '이 아니다' 라고
+MessageJP: メイドロボット「ではない」と
+
+101330130 | 0
+MessageKR: 정의하는 것은 어렵지 않을까?
+MessageJP: 定義することは難しいのではないかしら
+
+101330140 | 0
+MessageKR: 가사를 직업으로 하는 것이 메이드이다
+MessageJP: 家事を職業にしているのがメイドである
+
+101330150 | 0
+MessageKR: 아방가르드 군은 가사일을 하는 로봇이다
+MessageJP: アバンギャルド君は家事をするロボットである
+
+101330160 | 0
+MessageKR: 즉 아방가르드 군은
+MessageJP: つまりアバンギャルド君は
+
+101330160 | 0
+MessageKR: 메이드 역할을 담당하는 로봇이다
+MessageJP: メイドの役割を担うロボットである
+
+101330160 | 0
+MessageKR: 3단 논법으로 비추어 봐도
+MessageJP: 三段論法に照らし合わせてみても
+
+101330170 | 0
+MessageKR: 많은 요소가 공통하고 있다고 생각해.
+MessageJP: 多くの要素が共通しているとは考えているわ
+
+101330180 | 3
+MessageKR: 내가 졌어, 리오야…….
+MessageJP: 私の負けだよ……
+
+101330190 | 1
+MessageKR: 아마 오늘은
+MessageJP: 気づいているかしら
+
+101330200 | 0
+MessageKR: 수송선에 우리 둘만 있을 거야.
+MessageJP: 今日この船にいるのは私たちだけよ
+
+101330210 | 0
+MessageKR: 다들 개인 용무로 자리를 비웠거든.
+MessageJP: みんな用事で外しているみたい
+
+101330220 | 3
+MessageKR: 조용하겠네.
+MessageJP: どうりで静かだと思った
+
+101330230 | 4
+MessageKR: 응. 난 이참에
+MessageJP: 良い機会だから
+
+101330230 | 4
+MessageKR: 미뤄뒀던 일을 해보려 해.
+MessageJP: 溜まっていた作業を進めようと思うの
+
+101330230 | 4
+MessageKR: 조용히 집중해서 처리할 일이 있거든.
+MessageJP: 集中が必要な作業は後回しにしていたから
+
+101330240 | 4
+MessageKR: 수송선의 시스템 재부팅이 있을지도 몰라.
+MessageJP: システムに再起動が入るかもしれないのだけれど
+
+101330250 | 4
+MessageKR: 에러는 아니니까 놀라지 말았으면 해.
+MessageJP: エラーではないから驚かないでちょうだい
+
+101330260 | 3
+MessageKR: 응? 무슨 일을 하려는 건데?
+MessageJP: 何をするつもりなの？
+
+101330270 | 4
+MessageKR: 그건 비밀.
+MessageJP: 詳細は伏せさせてもらうわ
+
+101330280 | 4
+MessageKR: 아무튼 전달했으니까.
+MessageJP: 伝えておくべきことは以上よ
+
+101330280 | 4
+MessageKR: 오늘도 수고해.
+MessageJP: 今日もよろしく
+
+101330290 | 0
+MessageKR: 고마워, 선생.
+MessageJP: 先生、お礼を言うわ
+
+101330300 | 0
+MessageKR: 덕분에 수송선의 업그레이드가 끝났어.
+MessageJP: おかげで輸送船のアップグレードを無事に終えられた
+
+101330300 | 0
+MessageKR: 예상보다 성능 상승이 크진 않았지만…….
+MessageJP: 想定よりも性能はアップしなかったのだけれど……
+
+101330310 | 0
+MessageKR: 이런 게 이어지면 큰 성과가 되는 거니까.
+MessageJP: こういった積み重ねが後から効いてくるのよ
+
+101330320 | 3
+MessageKR: 정말 수고 많았어.
+MessageJP: 本当にお疲れ様！
+
+101330330 | 4
+MessageKR: 그리고 아까 선생이 말 돌렸던 건에 대해
+MessageJP: それと、さっき先生が誤魔化した件について
+
+101330330 | 4
+MessageKR: 혼자서 생각해 봤는데.
+MessageJP: 1人で考えてみたのだけれど
+
+101330340 | 4
+MessageKR: 그거 혹시…….
+MessageJP: もしかして……
+
+101330350 | 4
+MessageKR: 가상공간에서 누군가와 커뮤니케이션하고 있다, 고
+MessageJP: 仮想空間で誰かとコミュニケーションを取っている、と
+
+101330350 | 4
+MessageKR: 선생은 오해하고 있는 거야?
+MessageJP: 先生は誤解したのかしら？
+
+101330360 | 3
+MessageKR: 마, 맞아! 그런 쪽이야!
+MessageJP: そ、そんなところかな！
+
+101330370 | 4
+MessageKR: 그렇구나.
+MessageJP: そういうことだったのね
+
+101330370 | 4
+MessageKR: 아쉽게도 난 VR 채팅은 하지 않아.
+MessageJP: ただ、まだそれを試みたことは無いの
+
+101330380 | 4
+MessageKR: 호기심에 아바타는 만들어 뒀지만.
+MessageJP: 興味本位でアバターだけは作ってみたのだけれどね
+
+101330390 | 3
+MessageKR: 오? 어떻게 생겼어? 궁금해!
+MessageJP: お、どんなのにしたの？
+
+101330400 | 4
+MessageKR: 그래?
+MessageJP: 気になるの？
+
+101330400 | 4
+MessageKR: 기대할 만해.
+MessageJP: これでも自信作なのよ
+
+101330410 | 4
+MessageKR: 메이드 복을 입고 있는…….
+MessageJP: メイド服を着ている
+
+101330420 | 3
+MessageKR: 와……!
+MessageJP: おお……！
+
+101330430 | 4
+MessageKR: 아방가르드 군이니까.
+MessageJP: アバンギャルド君よ
+
+101330440 | 3
+MessageKR: 기대된다…….
+MessageJP: そっかぁ……
+
+101330450 | 1
+MessageKR: 오늘은 격납고가 복잡할 거야.
+MessageJP: 今日はAMASの大規模な整備があるから
+
+101330460 | 0
+MessageKR: AMAS들의 대규모 정비가 있거든.
+MessageJP: 格納庫が少し騒がしくなるわ
+
+101330460 | 0
+MessageKR: 시설 이용에 참고해 줘.
+MessageJP: 施設を使うのなら承知しておいてちょうだい
+
+101330470 | 3
+MessageKR: 오, 견학해도 돼?
+MessageJP: 見学してもいい？
+
+101330480 | 4
+MessageKR: 견학?
+MessageJP: 見学？
+
+101330490 | 4
+MessageKR: 그렇게 재미있는 작업은 아닌데……
+MessageJP: 面白い作業ではないと思うのだけれど……
+
+101330490 | 4
+MessageKR: 그래도 보고 싶다면 와도 좋아.
+MessageJP: それでも良ければ、私としても助かるわ
+
+101330500 | 4
+MessageKR: 단순 반복 작업이라
+MessageJP: 単純作業の繰り返しだから
+
+101330510 | 4
+MessageKR: 나도 대화 상대가 있으면 좋으니까.
+MessageJP: 誰か話し相手がいると気が紛れるの
+
+101330520 | 1
+MessageKR: 으음, 아무리 생각해도 부족해.
+MessageJP: どう考えても不足しているの
+
+101330530 | 0
+MessageKR: 좀 더 완벽하게 만들고 싶어.
+MessageJP: もっと完璧に仕上げたいのだけれど……
+
+101330540 | 3
+MessageKR: 아방가르드 군 이야기?
+MessageJP: アバンギャルド君の話？
+
+101330550 | 4
+MessageKR: 아방가르드 군의 개조도 좋지만……
+MessageJP: それも悪くないわね
+
+101330560 | 4
+MessageKR: 이번엔 내 슈트 이야기야.
+MessageJP: けれど今回は私のスーツに関することよ
+
+101330560 | 4
+MessageKR: 지금 슈트에 발열 기능을 넣는다면…….
+MessageJP: 今のスーツに発熱機能をつければ
+
+101330560 | 4
+MessageKR: 좀 더 여러 변수에 대응할 수 있겠지.
+MessageJP: もっと色々な状況に対応できるはず
+
+101330570 | 4
+MessageKR: 그래.
+MessageJP: ええ
+
+101330570 | 4
+MessageKR: 역시 그쪽이 합리적이야.
+MessageJP: やはりその方が合理的
+
+101330580 | 4
+MessageKR: 지금 당장 해야겠어.
+MessageJP: 今すぐ取りかかるわ
+
+101330590 | 0
+MessageKR: 선생. 그……
+MessageJP: 先生、その……
+
+101330600 | 0
+MessageKR: 본의 아니게 추태를 보였어.
+MessageJP: 変なところを見せてしまったわね
+
+101330610 | 0
+MessageKR: 일단 사과할게.
+MessageJP: ごめんなさい
+
+101330620 | 3
+MessageKR: 난 괜찮아! 정말로!
+MessageJP: 気にしてないよ！本当に！
+
+101330630 | 4
+MessageKR: ……정말?
+MessageJP: ……本当？
+
+101330630 | 4
+MessageKR: …….
+MessageJP: ……
+
+101330630 | 4
+MessageKR: ……다행이네.
+MessageJP: それならいいのだけれど……
+
+101330640 | 4
+MessageKR: 사실 그런 모습은……
+MessageJP: あんな姿
+
+101330650 | 4
+MessageKR: 누구에게도 보여준 적 없어서……
+MessageJP: 他の誰にも見せたことがなかったから……
+
+101330660 | 4
+MessageKR: 아무튼 오늘 도와줘서 고마웠어.
+MessageJP: とにかく、今日は手伝ってくれてありがとう
+
+101330660 | 4
+MessageKR: 푹 쉬고, 다음에 봐.
+MessageJP: ゆっくり休んでちょうだい
