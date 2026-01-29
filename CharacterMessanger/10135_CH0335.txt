@@ -1,0 +1,291 @@
+101350010 | 1
+MessageKR: 선생님.
+MessageJP: 先生、少しよろしいですか？
+
+101350020 | 3
+MessageKR: 왜 그러니. 케이 쨩.
+MessageJP: どうしたのケイちゃん？
+
+101350030 | 4
+MessageKR: 케이 쨩 아닙니다.
+MessageJP: ケイちゃんじゃありません
+
+101350030 | 4
+MessageKR: 어쨌든.
+MessageJP: まったく……それはともかく
+
+101350030 | 4
+MessageKR: 비탄소 기반의 의식체는
+MessageJP: 無機物を器としている意識体において
+
+101350030 | 4
+MessageKR: 어떻게 스트레스를 해소해야 할까요.
+MessageJP: ストレス解消はどのように行うべきでしょうか？
+
+101350040 | 3
+MessageKR: 시작부터 너무 난이도가 높은 질문이구나……
+MessageJP: いきなり難しい質問をするね……
+
+101350050 | 4
+MessageKR: 그렇겠죠.
+MessageJP: そうですよね
+
+101350050 | 4
+MessageKR: 선생님에게 뭘 기대한 제가 바보였어요.
+MessageJP: 先生に期待した私がバカでした
+
+101350060 | 3
+MessageKR: 너무해…….
+MessageJP: ひどいよぉ……
+
+101350070 | 1
+MessageKR: 선생님.
+MessageJP: 先生、本気ですか？
+
+101350080 | 3
+MessageKR: 왜 그러니. 케이 쨩.
+MessageJP: どうしたのケイちゃん？
+
+101350090 | 4
+MessageKR: 케이 쨩 아닙니다.
+MessageJP: ケイちゃんじゃありません
+
+101350100 | 4
+MessageKR: 어쨌든.
+MessageJP: それはともかく
+
+101350100 | 4
+MessageKR: 진짜 오실 건가요?
+MessageJP: 本当に来るんですか？
+
+101350110 | 3
+MessageKR: 약속했잖니. 케이 쨩.
+MessageJP: ケイちゃんと約束したからね
+
+101350120 | 4
+MessageKR: 했긴 했는데!
+MessageJP: しましたけど！
+
+101350120 | 4
+MessageKR: 꼭 그렇게까지 제 수업 참관을 오셔야겠냐는 거예요!
+MessageJP: どうしてそこまで授業の様子を観に来たいんですか！？
+
+101350130 | 3
+MessageKR: 학생의 학업 성취도를 지켜보는 것은.
+MessageJP: 生徒の学力向上を見守るのは
+
+101350140 | 3
+MessageKR: 교사로서 해야 할 의무 중 하나란다.
+MessageJP: 教師としての責務だからね
+
+101350150 | 4
+MessageKR: 꼭 이럴 때만 정론 가지고 오죠, 진짜!
+MessageJP: こういう時ばっかり正論を言うんですから！
+
+101350160 | 0
+MessageKR: 뭔가
+MessageJP: なんだか
+
+101350160 | 0
+MessageKR: 결과적으로
+MessageJP: 結果的に
+
+101350160 | 0
+MessageKR: 사방에서…… 온갖 초대를 받게 되었는데요……
+MessageJP: いろんな人からお誘いを受けました……
+
+101350170 | 3
+MessageKR: 이 선생님은 기쁘단다.
+MessageJP: 先生は嬉しいよ
+
+101350180 | 4
+MessageKR: 아오
+MessageJP: はあ
+
+101350190 | 3
+MessageKR: 그렇게 싫고 부담스러워……?
+MessageJP: そんなに嫌だった……？
+
+101350200 | 4
+MessageKR: 으
+MessageJP: うっ
+
+101350200 | 4
+MessageKR: 그
+MessageJP: いや
+
+101350200 | 4
+MessageKR: 저
+MessageJP: うーん
+
+101350200 | 4
+MessageKR: ……
+MessageJP: ……
+
+101350210 | 4
+MessageKR: 싫은 건, 아니에요.
+MessageJP: 嫌なわけじゃないです
+
+101350220 | 1
+MessageKR: 선ㅅㅐ
+MessageJP: せんせ
+
+101350230 | 0
+MessageKR: 니ㅁ
+MessageJP: た
+
+101350230 | 0
+MessageKR: 도와
+MessageJP: すけて
+
+101350240 | 3
+MessageKR: 무슨 일이야?!
+MessageJP: どうしたの！？
+
+101350250 | 4
+MessageKR: ㅈㅣ금
+MessageJP: いま
+
+101350250 | 4
+MessageKR: 좀 곤ㄹㅏㄴ
+MessageJP: ちょとこまって
+
+101350260 | 1
+MessageKR: 아니
+MessageJP: ああ
+
+101350270 | 0
+MessageKR: 진짜
+MessageJP: もう
+
+101350270 | 0
+MessageKR: 정말이지
+MessageJP: なんですか
+
+101350270 | 0
+MessageKR: 뭔 버그가
+MessageJP: このバグは
+
+101350280 | 3
+MessageKR: 버그라니?
+MessageJP: バグ？
+
+101350290 | 4
+MessageKR: 그런 게 있습니다.
+MessageJP: こっちの話です
+
+101350300 | 4
+MessageKR: 어라
+MessageJP: ん？
+
+101350300 | 4
+MessageKR: 잠깐만
+MessageJP: 待ってください
+
+101350310 | 4
+MessageKR: 흠
+MessageJP: んー
+
+101350310 | 4
+MessageKR: 선생님.
+MessageJP: 先生
+
+101350310 | 4
+MessageKR: 어차피 지금 시간 남죠?
+MessageJP: いま暇してますよね？
+
+101350310 | 4
+MessageKR: 오십쇼.
+MessageJP: ちょっと来てください
+
+101350320 | 3
+MessageKR: 어, 어? 난 지금 일정이……
+MessageJP: えっ？私は予定が……
+
+101350330 | 4
+MessageKR: 없는 거 압니다.
+MessageJP: 無いのは知っています
+
+101350330 | 4
+MessageKR: 그 정도는 조사 가능하니까요.
+MessageJP: それくらい簡単に調べられますから
+
+101350340 | 3
+MessageKR: 내 사생활은!
+MessageJP: 私のプライベートは！？
+
+101350350 | 4
+MessageKR: 학생 먼저 아니었습니까.
+MessageJP: 生徒が第一なんですよね？
+
+101350360 | 3
+MessageKR: 크윽!
+MessageJP: くっ……
+
+101350370 | 1
+MessageKR: 하아아아.
+MessageJP: はああ……
+
+101350380 | 3
+MessageKR: 왜 그래?
+MessageJP: どうしたの？
+
+101350390 | 4
+MessageKR: 아뇨.
+MessageJP: いえ
+
+101350390 | 4
+MessageKR: 청소한 지 3일 만에 또 어질러진 부실을 청소하려니.
+MessageJP: 3日と経っていないのにまた部室掃除と思うと
+
+101350390 | 4
+MessageKR: 맥이 좀 빠져서요.
+MessageJP: 気が滅入ってしまって
+
+101350400 | 3
+MessageKR: 부실 청소?
+MessageJP: 掃除？
+
+101350410 | 4
+MessageKR: 그런 게 있어요.
+MessageJP: まあこっちの話です
+
+101350420 | 1
+MessageKR: 샬레 앞에 다 왔는데, 올라갈게요.
+MessageJP: シャーレの前に着きました
+
+101350430 | 3
+MessageKR: 케이 쨩의 당번!!!
+MessageJP: 今日の当番はケイちゃん！！
+
+101350440 | 4
+MessageKR: 아 진짜 좀.
+MessageJP: はぁ、本当にもう
+
+101350450 | 0
+MessageKR: 기숙사, 도착했습니다…….
+MessageJP: 寮に着きました
+
+101350460 | 3
+MessageKR: 잘 들어갔구나.
+MessageJP: それはよかった
+
+101350470 | 4
+MessageKR: 네.
+MessageJP: はい
+
+101350470 | 4
+MessageKR: 아!
+MessageJP: あ！
+
+101350480 | 3
+MessageKR: 왜 그래?
+MessageJP: どうかした？
+
+101350490 | 4
+MessageKR: 일퀘 안 했어요!
+MessageJP: デイリーやるの忘れてました！
+
+101350500 | 3
+MessageKR: 아, 응. 그래. 그거 중요하지.
+MessageJP: あ、うん……大事なことだからね

@@ -179,7 +179,7 @@ MessageKR: ……!
 MessageJP: まさか……
 
 200540270 | 4
-MessageKR: 이럴수가…….
+MessageKR: 이럴 수가…….
 MessageJP: 完全無欠超天才病弱美少女ハッカーである私が
 
 200540270 | 4
