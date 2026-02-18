@@ -47,6 +47,7 @@ jobs:
           mkdir -p "$TEMP_DIR"
           cp -a CharacterMessanger "$TEMP_DIR/"
           cp -a CharacterScenario "$TEMP_DIR/"
+          cp -a CharacterValentine "$TEMP_DIR/"
           echo "temp_path=$TEMP_DIR" >> $GITHUB_OUTPUT
 
       - name: Switch Branch
@@ -59,12 +60,13 @@ jobs:
         shell: bash
         run: |
           TEMP_PATH="${{ steps.save_data.outputs.temp_path }}"
-          rm -rf CharacterMessanger CharacterScenario
+          rm -rf CharacterMessanger CharacterScenario CharacterValentine
           cp -a "$TEMP_PATH/CharacterMessanger" .
           cp -a "$TEMP_PATH/CharacterScenario" .
+          cp -a "$TEMP_PATH/CharacterValentine" .
 
       - name: Commit and Push
         run: |
-          git add CharacterMessanger CharacterScenario
+          git add CharacterMessanger CharacterScenario CharacterValentine
           git commit -m "Update Data: $(date +'%Y-%m-%d %H:%M:%S')" --allow-empty
           git push origin dump

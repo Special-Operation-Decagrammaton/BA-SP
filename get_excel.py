@@ -37,7 +37,9 @@ if __name__ == "__main__":
     files_to_get = [
         "AcademyMessanger.json",
         "Character.json",
-        "ScenarioScript.json"
+        "ScenarioScript.json",
+        "EventContentMeetup.json"
+        # "ScenarioMode.json" > TODO
     ]
     
     output_dir = Path("Excels")

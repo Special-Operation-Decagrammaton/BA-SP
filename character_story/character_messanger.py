@@ -38,6 +38,6 @@ def parsing_character_messanger(messanger_data, target_character_id: int, text_o
         with open(text_output_txt, "w", encoding="utf-8") as outfile:
             outfile.write(final_output_content)
         
-        print(f"✅ Successfully wrote {len(sorted_records)} messages for CharacterId {target_character_id} to {text_output_txt.name}")
+        # print(f"✅ Successfully wrote {len(sorted_records)} messages for CharacterId {target_character_id} to {text_output_txt.name}")
     except IOError:
         print(f"Error: Could not write output file: {text_output_txt}")

@@ -39,4 +39,4 @@ def parsing_character_story(scenario_data, character_id: int, text_output_dir: P
         except IOError:
             print(f"Error: Could not write file for GroupId {group_id}: {output_file}")
 
-    print(f"✅ Successfully writing for character {character_id}, {len(grouped_output_lines)} files, {total_lines} total lines.")
+    # print(f"✅ Successfully writing for character {character_id}, {len(grouped_output_lines)} files, {total_lines} total lines.")
