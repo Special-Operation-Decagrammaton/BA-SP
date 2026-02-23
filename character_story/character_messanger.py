@@ -21,11 +21,12 @@ def parsing_character_messanger(messanger_data, target_character_id: int, text_o
     for record in sorted_records:
         character_id = record.get("CharacterId", "N/A")
         messager_id = record.get("Id", "N/A")
+        condition = record.get("MessageCondition", "N/A")
         msg_kr = record.get("MessageKR", "").strip()
         msg_jp = record.get("MessageJP", "").strip()
 
         output_block = (
-            f"{character_id} | {messager_id}\n"
+            f"{character_id} | {messager_id} | {condition}\n"
             f"MessageKR: {msg_kr}\n"
             f"MessageJP: {msg_jp}\n"
         )
