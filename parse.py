@@ -25,12 +25,12 @@ if __name__ == '__main__':
     character_list = get_released_character_list(character_data)
     
     # Parsing character momotalk story from scenario & messanger
-    for character in character_list:
-        character_output_dir = Path(os.getcwd(), "CharacterScenario", f"{character['Id']}_{character['DevName']}")
-        parsing_character_story(scenario_data, character["Id"], character_output_dir)
-    for character in character_list:
-        character_output_txt = Path(os.getcwd(), "CharacterMessanger", f"{character['Id']}_{character['DevName']}.txt")
-        parsing_character_messanger(messanger_data, character["Id"], character_output_txt)
+    for character_scenario in character_list:
+        character_output_dir = Path(os.getcwd(), "CharacterScenario", f"{character_scenario['Id']}_{character_scenario['DevName']}")
+        parsing_character_story(scenario_data, character_scenario["Id"], character_output_dir)
+    for character_messanger in character_list:
+        character_output_txt = Path(os.getcwd(), "CharacterMessanger", f"{character_messanger['Id']}_{character_messanger['DevName']}.txt")
+        parsing_character_messanger(messanger_data, character_messanger["Id"], character_output_txt)
         
     # Parsing character valentine story
     for valentine_character in valentine_data:
