@@ -313,3 +313,59 @@ MessageJP: はい
 10091 | 100910790 | 4
 MessageKR: 네.
 MessageJP: うん
+
+10091 | 100910800 | 1
+MessageKR: 선생님
+MessageJP: レコードプレーヤーって
+
+10091 | 100910810 | 0
+MessageKR: 혹시 LP 플레이어, 가지고 있어?
+MessageJP: シャーレにあったりする？
+
+10091 | 100910820 | 3
+MessageKR: 음? 무슨 일로?
+MessageJP: ん、どうして？
+
+10091 | 100910830 | 4
+MessageKR: 그야……
+MessageJP: シャーレならあるかもって
+
+10091 | 100910840 | 4
+MessageKR: 엄청 옛날에 쓰던 장비니까?
+MessageJP: 古いもの、だし？
+
+10091 | 100910850 | 3
+MessageKR: 확실히, 오래된 건 많긴 한데……
+MessageJP: たしかに、古いものは多いけど……。
+
+10091 | 100910860 | 3
+MessageKR: 그런데 무슨 일로?
+MessageJP: レコードを聞くの？
+
+10091 | 100910870 | 4
+MessageKR: 아, 들어보고 싶은 LP 음반이 있는데
+MessageJP: うん。聴きたいLP盤があるんだけど
+
+10091 | 100910880 | 4
+MessageKR: 막상 재생할 장치가 없어서…….
+MessageJP: プレーヤーがなくて……
+
+10091 | 100910890 | 4
+MessageKR: 그래서, 있어?
+MessageJP: それで、シャーレにあるの？
+
+10091 | 100910900 | 3
+MessageKR: 안타깝게도 플레이어는 없지만……
+MessageJP: ごめん、ないんだ……
+
+10091 | 100910910 | 3
+MessageKR: 방법은 있지
+MessageJP: でも聴く方法はあるよ
+
+10091 | 100910920 | 4
+MessageKR: 어?
+MessageJP: え？
+
+10091 | 100910930 | 4
+MessageKR: 진짜?!
+MessageJP: 本当！？

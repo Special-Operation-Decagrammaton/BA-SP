@@ -305,3 +305,99 @@ MessageJP: じゃあ、勉強めっちゃ頑張らなきゃね(´；ω；`)笑
 10093 | 100930770 | 4
 MessageKR: 다음에 봐!
 MessageJP: んじゃまたね！
+
+10093 | 100930780 | 1
+MessageKR: 쌤!!
+MessageJP: 先生！大変！
+
+10093 | 100930790 | 0
+MessageKR: 쌤쌤쌤쌤!!
+MessageJP: リングノート無くしちゃった！
+
+10093 | 100930800 | 0
+MessageKR: 혹시 내 스프링 노트
+MessageJP: 先生、どこかで見てたりしてない……？
+
+10093 | 100930810 | 0
+MessageKR: 본 적 있어?
+MessageJP: 覚えてたらでいいんだけど
+
+10093 | 100930820 | 3
+MessageKR: 어떤 스프링 노트……?
+MessageJP: どんなノート……？
+
+10093 | 100930830 | 4
+MessageKR: 으아아
+MessageJP: やっぱそうだよねー
+
+10093 | 100930840 | 4
+MessageKR: 그치 쌤한테 그게 있을 리가 없지……!
+MessageJP: ごめん気にしないで……！
+
+10093 | 100930850 | 4
+MessageKR: 미안 쌤! 나중에 다시 연락할게!
+MessageJP: また後で！
+
+10093 | 100930860 | 3
+MessageKR: ……?
+MessageJP: ……キララ？
+
+10093 | 100930870 | 0
+MessageKR: 미안해 쌤!
+MessageJP: ごめん先生！
+
+10093 | 100930880 | 0
+MessageKR: 갑자기 뛰쳐나와 버려서!
+MessageJP: ちょっと急用を思い出しちゃって！
+
+10093 | 100930890 | 0
+MessageKR: 그리고
+MessageJP: それと
+
+10093 | 100930900 | 0
+MessageKR: 그
+MessageJP: あの
+
+10093 | 100930910 | 0
+MessageKR: 아까 그
+MessageJP: さっきのヤツ……
+
+10093 | 100930920 | 0
+MessageKR: 그건 말이지
+MessageJP: あれのことは
+
+10093 | 100930930 | 0
+MessageKR: 잊
+MessageJP: わ
+
+10093 | 100930940 | 0
+MessageKR: 잊어주세
+MessageJP: 忘れて……
+
+10093 | 100930950 | 0
+MessageKR: 아니
+MessageJP: いや
+
+10093 | 100930960 | 0
+MessageKR: 그렇다고 진짜로 잊지는 말고!
+MessageJP: 気にしないで！
+
+10093 | 100930970 | 0
+MessageKR: 알겠지! 쌤!
+MessageJP: 分かった！？
+
+10093 | 100930980 | 3
+MessageKR: 아…… 알겠습니다?!
+MessageJP: わ……分かりました？
+
+10093 | 100930990 | 4
+MessageKR: 응응!
+MessageJP: うん！そういうことで！
+
+10093 | 100931000 | 4
+MessageKR: 그러면
+MessageJP: それじゃあ
+
+10093 | 100931010 | 4
+MessageKR: 다음에 또 봐!!
+MessageJP: またね！先生！

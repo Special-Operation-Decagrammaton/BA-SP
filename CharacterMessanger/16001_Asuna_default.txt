@@ -305,3 +305,35 @@ MessageJP: じゃあまたね、ご主人様！
 16001 | 160010280 | 4
 MessageKR: 다시 한번 오늘 정말 고마웠어!
 MessageJP: あらためて、今日は本当にありがとう！
+
+16001 | 160010290 | 1
+MessageKR: 주인님
+MessageJP: ご主人様！
+
+16001 | 160010300 | 0
+MessageKR: 혹시 시간 괜찮아?
+MessageJP: いま時間あったりする？
+
+16001 | 160010310 | 0
+MessageKR: 아스나 도움!!
+MessageJP: ちょーっと助けてほしくて！
+
+16001 | 160010320 | 3
+MessageKR: 마침 딱 시간 괜찮았는데
+MessageJP: ちょうど手が空いたところだよ。どうしたの？
+
+16001 | 160010330 | 3
+MessageKR: 어디로 갈까?
+MessageJP: どこに行けば良い？
+
+16001 | 160010340 | 4
+MessageKR: 오
+MessageJP: よかった！
+
+16001 | 160010350 | 4
+MessageKR: 럭키~!!
+MessageJP: ありがとうー！
+
+16001 | 160010360 | 4
+MessageKR: 여기가 어디냐면
+MessageJP: 場所送るね！
