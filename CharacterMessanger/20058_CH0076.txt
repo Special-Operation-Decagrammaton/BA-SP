@@ -1,0 +1,359 @@
+20058 | 200580010 | 1
+MessageKR: 요 선생님
+MessageJP: やっほ、先生
+
+20058 | 200580020 | 3
+MessageKR: 에리카인가
+MessageJP: エリカであってる？
+
+20058 | 200580030 | 3
+MessageKR: 안녕, 에리카
+MessageJP: こんにちは
+
+20058 | 200580040 | 4
+MessageKR: 앗
+MessageJP: あ、良かった
+
+20058 | 200580050 | 4
+MessageKR: 내 번호 저장했었네
+MessageJP: 登録してくれてたんだ
+
+20058 | 200580060 | 4
+MessageKR: 왠지 고마운걸ㅋㅋㅋ
+MessageJP: なんか嬉しいかも笑
+
+20058 | 200580070 | 0
+MessageKR: 오늘 쇼핑
+MessageJP: 今日はごめんね
+
+20058 | 200580080 | 0
+MessageKR: 선생님은 별로 관심 없는데
+MessageJP: 先生はあまり興味ないのに
+
+20058 | 200580090 | 0
+MessageKR: 내가 너무 끌고 다닌 거 아냐?
+MessageJP: 連れ回しちゃったかもだけど……
+
+20058 | 200580100 | 3
+MessageKR: 나도 즐거웠어
+MessageJP: 全然。楽しかったよ！
+
+20058 | 200580110 | 3
+MessageKR: 에리카의 취향 공부
+MessageJP: エリカの好み探しだね
+
+20058 | 200580120 | 4
+MessageKR: 우왓
+MessageJP: わお
+
+20058 | 200580130 | 4
+MessageKR: 그렇게까지 말해주네
+MessageJP: そんな風に言ってくれるなんて、ちょっと意外
+
+20058 | 200580140 | 4
+MessageKR: 아무튼 즐거웠어 덕분에!
+MessageJP: 楽しかった！ありがとね
+
+20058 | 200580150 | 1
+MessageKR: 저번에 말했던 거 샀다!
+MessageJP: 前言ってたやつ、買えたよ！
+
+20058 | 200580160 | 3
+MessageKR: 오 좋겠네
+MessageJP: お、よかった！
+
+20058 | 200580170 | 4
+MessageKR: 이거 구한다고 D.U.를
+MessageJP: えへへ。これが欲しくて
+
+20058 | 200580180 | 4
+MessageKR: 완전 싹 돌았거든
+MessageJP: D.U.のお店ぜーんぶみて回ったんだから！
+
+20058 | 200580190 | 3
+MessageKR: 이 늦은 시간까지?
+MessageJP: こんな時間まで？
+
+20058 | 200580200 | 4
+MessageKR: 맞아 어느새 시간이 이렇게
+MessageJP: そうなんだよね。夢中になってたらこんな時間になっちゃった笑
+
+20058 | 200580210 | 4
+MessageKR: 저녁도 안 먹었어ㅋㅋㅋ
+MessageJP: 夜ご飯食べる時間もなかったよ～
+
+20058 | 200580220 | 3
+MessageKR: 나돈데!
+MessageJP: 私も！
+
+20058 | 200580230 | 4
+MessageKR: 오 선생님 어딘데?
+MessageJP: お、先生いまどこにいるの？
+
+20058 | 200580240 | 4
+MessageKR: 그럼 저녁 같이 먹을래?
+MessageJP: よかったら一緒にご飯食べない？
+
+20058 | 200580250 | 0
+MessageKR: 선생님 오늘 즐거웠어
+MessageJP: 先生、今日もありがとね
+
+20058 | 200580260 | 0
+MessageKR: 저녁도 사주고 바래다주기까지 하다니
+MessageJP: ご馳走してもらった上に送ってもらっちゃって……
+
+20058 | 200580270 | 0
+MessageKR: 너무 잘해주는 거 아냐?
+MessageJP: ちょっと優しすぎない？
+
+20058 | 200580280 | 3
+MessageKR: 학생에게는 좀 늦은 시간이었으니
+MessageJP: 時間も遅いからね
+
+20058 | 200580290 | 4
+MessageKR: 아무래도 그렇지?
+MessageJP: まぁそれもそっか
+
+20058 | 200580300 | 4
+MessageKR: 고마워
+MessageJP: ありがと
+
+20058 | 200580310 | 4
+MessageKR: 다음에는 내가 밥 살게!
+MessageJP: 今度は私が奢るね！
+
+20058 | 200580320 | 3
+MessageKR: 토마토 줄 거야?
+MessageJP: 今度はトマトくれる？
+
+20058 | 200580330 | 4
+MessageKR: 아ㅋㅋㅋ
+MessageJP: まだ引っ張ってるのそれ笑
+
+20058 | 200580340 | 4
+MessageKR: 글쎄~ 어떠려나!
+MessageJP: ん～どうしよっかな？
+
+20058 | 200580350 | 1
+MessageKR: 오늘 엄청 더워
+MessageJP: あつーい。マジヤバくない？
+
+20058 | 200580360 | 3
+MessageKR: 와 진짜 장난 아냐
+MessageJP: ね、今日やばいね
+
+20058 | 200580370 | 4
+MessageKR: ㅋㅋㅋ
+MessageJP: ほんと笑笑
+
+20058 | 200580380 | 4
+MessageKR: 밖에 나갈 일 있으면
+MessageJP: 外出る時は
+
+20058 | 200580390 | 4
+MessageKR: 수분 섭취 잘하고!
+MessageJP: ちゃんと水分とるんだよ～！
+
+20058 | 200580400 | 0
+MessageKR: 아 혹시 모르니까
+MessageJP: あ、そうだ
+
+20058 | 200580410 | 0
+MessageKR: 손 씻거나 하면 바로 갈아줘야 해
+MessageJP: 手を洗ったりした時はちゃんと絆創膏変えるんだよ
+
+20058 | 200580420 | 0
+MessageKR: 밴드
+MessageJP: 雑菌繁殖しちゃうからね
+
+20058 | 200580430 | 3
+MessageKR: 하지만 귀여운데
+MessageJP: これ可愛いのに
+
+20058 | 200580440 | 4
+MessageKR: 상처에 습기가 들어가면 안 좋아요
+MessageJP: 傷の治りが遅くなるからダメ
+
+20058 | 200580450 | 4
+MessageKR: 근데 그거 마음에 들었나 보네
+MessageJP: てか、それ気に入ってくれたんだ？
+
+20058 | 200580460 | 3
+MessageKR: 이거 어디서 사?
+MessageJP: これどこで売ってるの？
+
+20058 | 200580470 | 4
+MessageKR: 안 가르쳐줄 거야
+MessageJP: 教えませーん
+
+20058 | 200580480 | 4
+MessageKR: 다치지 마!!
+MessageJP: また怪我しないでよ？
+
+20058 | 200580490 | 1
+MessageKR: 선생님 혹시
+MessageJP: 暇な時間ある？
+
+20058 | 200580500 | 0
+MessageKR: 시간 언제 괜찮으려나?
+MessageJP: 会えたら嬉しいんだけど
+
+20058 | 200580510 | 3
+MessageKR: 무슨 일이 있나 본데
+MessageJP: 何かあったの？
+
+20058 | 200580520 | 4
+MessageKR: 음
+MessageJP: んー
+
+20058 | 200580530 | 4
+MessageKR: 나 요즘
+MessageJP: ちょっと相談したいことがあって
+
+20058 | 200580540 | 4
+MessageKR: 상담하고 싶은 게 있어서
+MessageJP: 話せたらなーと
+
+20058 | 200580550 | 3
+MessageKR: 좋아, 그럼 지금 볼까
+MessageJP: 今からとかどうかな？
+
+20058 | 200580560 | 4
+MessageKR: 지금?!
+MessageJP: 今から！？
+
+20058 | 200580570 | 0
+MessageKR: 친구들에게도 말해볼까
+MessageJP: 友達にも言ってみようかな？
+
+20058 | 200580580 | 0
+MessageKR: 가끔 혼자만의 시간이 필요하다는 거
+MessageJP: たまには一人の時間も必要かもって
+
+20058 | 200580590 | 0
+MessageKR: 음 뭔가
+MessageJP: んー、でもなんか
+
+20058 | 200580600 | 0
+MessageKR: 내 이미지랑 안 어울릴까봐
+MessageJP: 私のキャラと違う気がするかな
+
+20058 | 200580610 | 3
+MessageKR: 에리카 쨩, 이미지 만들고 있었던 거야?
+MessageJP: エリカってキャラ作ってたんだ？
+
+20058 | 200580620 | 4
+MessageKR: ……
+MessageJP: ……
+
+20058 | 200580630 | 3
+MessageKR: 에리카 쨩 그랬던 거야~?
+MessageJP: そうだったんだ！？
+
+20058 | 200580640 | 4
+MessageKR: 못됐어 진짜
+MessageJP: 意地悪な人
+
+20058 | 200580650 | 1
+MessageKR: 선생님 오늘 하늘 봤어?
+MessageJP: 先生、今日の空見た？
+
+20058 | 200580660 | 3
+MessageKR: 왜? 못 봤어
+MessageJP: 見れてないけど、どうかした？
+
+20058 | 200580670 | 3
+MessageKR: 지금은 지하철이라
+MessageJP: いま地下鉄に乗ってて
+
+20058 | 200580680 | 4
+MessageKR: 엄~청 예쁘거든
+MessageJP: すごい綺麗なんだ
+
+20058 | 200580690 | 4
+MessageKR: 밖에 나오면 한번 올려다봐
+MessageJP: 外出たらちょっと見てみて
+
+20058 | 200580700 | 4
+MessageKR: 분명 감동할 거야
+MessageJP: 絶対感動するから
+
+20058 | 200580710 | 3
+MessageKR: 믿어본다?
+MessageJP: 信じるからね？
+
+20058 | 200580720 | 4
+MessageKR: ㅋㅋㅋ아니
+MessageJP: いやいや笑
+
+20058 | 200580730 | 4
+MessageKR: 이런 걸로 속이겠냐고!
+MessageJP: こんなことで嘘つかないから！
+
+20058 | 200580740 | 3
+MessageKR: 마침 게헨나 가는 중이거든
+MessageJP: 今ゲヘナに向かってるとこなんだ
+
+20058 | 200580750 | 4
+MessageKR: 어??
+MessageJP: えっ！？
+
+20058 | 200580760 | 0
+MessageKR: 오늘은 아주 평화로웠지?
+MessageJP: 今日は穏やかな一日だったね
+
+20058 | 200580770 | 3
+MessageKR: 그러게 말이야
+MessageJP: そうだね
+
+20058 | 200580780 | 4
+MessageKR: 나는 이제 평화로운지 아닌지
+MessageJP: 私はあの後から
+
+20058 | 200580790 | 4
+MessageKR: 알 수 없게 되어버렸지만 말야
+MessageJP: ちょっと、落ち着かないんだけどね
+
+20058 | 200580800 | 4
+MessageKR: 아무튼
+MessageJP: まあいいや
+
+20058 | 200580810 | 4
+MessageKR: 선생님이 만족했다면 됐어
+MessageJP: 先生に喜んでもらえたならよかった
+
+20058 | 200580820 | 3
+MessageKR: 에리카의 하늘 좋더라
+MessageJP: エリカと見る空、すごく綺麗だったよ
+
+20058 | 200580830 | 3
+MessageKR: 다음에도 같이 갈까
+MessageJP: また一緒に行こうね
+
+20058 | 200580840 | 4
+MessageKR: ㅓ
+MessageJP: うう
+
+20058 | 200580850 | 4
+MessageKR: 아
+MessageJP: あーー
+
+20058 | 200580860 | 4
+MessageKR: 진짜ㅏ
+MessageJP: ほんとさ
+
+20058 | 200580870 | 4
+MessageKR: 이런 거ㅓ어
+MessageJP: またそーやってーーー
+
+20058 | 200580880 | 4
+MessageKR: ……
+MessageJP: ……
+
+20058 | 200580890 | 4
+MessageKR: 응
+MessageJP: うん
+
+20058 | 200580900 | 4
+MessageKR: 다음에도 같이
+MessageJP: また一緒に行こうね
