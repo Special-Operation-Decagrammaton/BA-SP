@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
           lfs: true
@@ -24,17 +24,20 @@ jobs:
         run: git fetch --all --tags
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
           python-version: '3.13.x'
-        
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
       - name: Configure Git
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
       - name: Get the necessary files
-        run: python get_excel.py --base-url ${{ secrets.BASE_URL }}
+        run: python get_excel.py
 
       - name: Parse the files
         run: python parse.py
@@ -48,6 +51,7 @@ jobs:
           cp -a CharacterMessanger "$TEMP_DIR/"
           cp -a CharacterScenario "$TEMP_DIR/"
           cp -a CharacterValentine "$TEMP_DIR/"
+          cp -a MainStory "$TEMP_DIR/"
           echo "temp_path=$TEMP_DIR" >> $GITHUB_OUTPUT
 
       - name: Switch Branch
@@ -60,13 +64,14 @@ jobs:
         shell: bash
         run: |
           TEMP_PATH="${{ steps.save_data.outputs.temp_path }}"
-          rm -rf CharacterMessanger CharacterScenario CharacterValentine
+          rm -rf CharacterMessanger CharacterScenario CharacterValentine MainStory
           cp -a "$TEMP_PATH/CharacterMessanger" .
           cp -a "$TEMP_PATH/CharacterScenario" .
           cp -a "$TEMP_PATH/CharacterValentine" .
+          cp -a "$TEMP_PATH/MainStory" .
 
       - name: Commit and Push
         run: |
-          git add CharacterMessanger CharacterScenario CharacterValentine
+          git add CharacterMessanger CharacterScenario CharacterValentine MainStory
           git commit -m "Update Data: $(date +'%Y-%m-%d %H:%M:%S')" --allow-empty
           git push origin dump

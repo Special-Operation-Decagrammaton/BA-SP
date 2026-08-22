@@ -1,6 +1,6 @@
 import urllib.request
-import argparse
 import json
+import sys
 
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
@@ -18,28 +18,23 @@ def download_file(file_info):
             with open(destination, 'w', encoding='utf-8') as out_file:
                 json.dump(parsed_json, out_file, ensure_ascii=False, indent=2)
                 
-        print(f"✅ Finished: {file_name}")
+        print(f"[OK] Finished: {file_name}")
         return True
     except Exception as e:
-        print(f"❌ Failed to download {file_name}")
+        print(f"[FAIL] Could not download {file_name}: {e}")
         return False
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument(
-        "--base-url",
-        required=True,
-        help="Base URL of the files",
-    )
-    args = parser.parse_args()
-    base_url = args.base_url
+    base_url = "https://raw.githubusercontent.com/electricgoat/ba-data/refs/heads/jp/DB"
     
     files_to_get = [
-        "AcademyMessanger.json",
-        "Character.json",
-        "ScenarioScript.json",
-        "EventContentMeetup.json"
-        # "ScenarioMode.json" > TODO
+        "AcademyMessangerExcelTable.json",
+        "CharacterExcelTable.json",
+        "ScenarioScriptExcelTable1.json",
+        "ScenarioScriptExcelTable2.json",
+        "EventContentMeetupExcelTable.json",
+        "ScenarioModeExcelTable.json",
+        "ScenarioCharacterNameExcelTable.json"
     ]
     
     output_dir = Path("Excels")
@@ -57,3 +52,4 @@ if __name__ == "__main__":
         print("\nAll files downloaded successfully.")
     else:
         print("\nSome downloads failed.")
+        sys.exit(1)

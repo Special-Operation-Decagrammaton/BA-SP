@@ -1,11 +1,33 @@
 # Blue Archive Scenario Parser
 
-This repository is used to parse the scenario data of the game to an separate file for easier access and readable story content.
+Parses Blue Archive (JP) scenario data into per-story TOML files for easier access and readable story content.
 
-Available text:
-- Character Momotalk Story (Messanger & Scenario)
-- Character Valentine Story
+## Output
 
-Character Id or DevName can be look at
+| Folder | Content |
+|---|---|
+| `CharacterScenario/` | Character Momotalk scenario stories, one folder per character (`{Id}_{DevName}/`) |
+| `CharacterMessanger/` | Character Momotalk messages, one file per character |
+| `CharacterValentine/` | Character valentine stories |
+| `MainStory/` | Campaign stories: `Main`, `Prologue`, `SpecialOperation`, `Sub`, `Mini` — organized as `{ModeType}/{SubType}/{VolumeId}/{ChapterId}/{GroupId}_{Episode}.toml` |
+
+Character Ids / DevNames can be looked up at:
+
 - [SchaleDB](https://schaledb.com/home)
 - [Rentry Paste](https://rentry.org/qewdu)
+
+## Usage
+
+Requires Python 3.13+.
+
+```bash
+pip install -r requirements.txt
+
+# Download the Excel tables from electricgoat/ba-data (jp) into ./Excels
+python get_excel.py
+
+# Parse everything into the output folders
+python parse.py
+```
+
+Source data: [electricgoat/ba-data](https://github.com/electricgoat/ba-data/tree/jp/DB) (`jp` branch).
