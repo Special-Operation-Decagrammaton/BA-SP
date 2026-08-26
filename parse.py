@@ -11,6 +11,7 @@ from story.character_scenario import parsing_character_story
 from story.character_messanger import parsing_character_messanger
 from story.character_valentine import parsing_character_valentine
 from story.main_story import parsing_main_story
+from story.event_story import parsing_event_story
 
 if __name__ == '__main__':
     excels_path = os.path.join(os.getcwd(), "Excels")
@@ -22,6 +23,7 @@ if __name__ == '__main__':
     messanger_path = os.path.join(excels_path, "AcademyMessangerExcelTable.json")
     valentine_path = os.path.join(excels_path, "EventContentMeetupExcelTable.json")
     scenario_mode_path = os.path.join(excels_path, "ScenarioModeExcelTable.json")
+    event_scenario_path = os.path.join(excels_path, "EventContentScenarioExcelTable.json")
     character_name_path = os.path.join(excels_path, "ScenarioCharacterNameExcelTable.json")
     
     character_data = load_json(character_path)
@@ -31,6 +33,7 @@ if __name__ == '__main__':
     messanger_data = load_json(messanger_path)
     valentine_data = load_json(valentine_path)
     scenario_mode_data = load_json(scenario_mode_path)
+    event_scenario_data = load_json(event_scenario_path)
     character_name_map = load_character_name_map(character_name_path)
     
     character_list = get_released_character_list(character_data)
@@ -54,4 +57,8 @@ if __name__ == '__main__':
     # Parsing main story
     main_story_output_dir = Path(os.getcwd(), "MainStory")
     parsing_main_story(scenario_mode_data, scenario_groups, main_story_output_dir, character_name_map)
+
+    # Parsing event story
+    event_story_output_dir = Path(os.getcwd(), "EventStory")
+    parsing_event_story(event_scenario_data, scenario_groups, event_story_output_dir, character_name_map)
     

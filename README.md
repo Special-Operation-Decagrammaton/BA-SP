@@ -9,7 +9,8 @@ Parses Blue Archive (JP) scenario data into per-story TOML files for easier acce
 | `CharacterScenario/` | Character Momotalk scenario stories, one folder per character (`{Id}_{DevName}/`) |
 | `CharacterMessanger/` | Character Momotalk messages, one file per character |
 | `CharacterValentine/` | Character valentine stories |
-| `MainStory/` | Campaign stories: `Main`, `Prologue`, `SpecialOperation`, `Sub`, `Mini` — organized as `{ModeType}/{SubType}/{VolumeId}/{ChapterId}/{GroupId}_{Episode}.toml` |
+| `MainStory/` | Main stories: `Main`, `Prologue`, `SpecialOperation`, `Sub`, `Mini` — organized as `{ModeType}/{SubType}/{VolumeId}/{ChapterId}/{GroupId}_{Episode}.toml` |
+| `EventStory/` | Event stories: (`{Event_Id}/{GroupId}_{Order}.toml`) |
 
 Character Ids / DevNames can be looked up at:
 

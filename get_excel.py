@@ -33,8 +33,9 @@ if __name__ == "__main__":
         "ScenarioScriptExcelTable1.json",
         "ScenarioScriptExcelTable2.json",
         "EventContentMeetupExcelTable.json",
+        "EventContentScenarioExcelTable.json",
         "ScenarioModeExcelTable.json",
-        "ScenarioCharacterNameExcelTable.json"
+        "ScenarioCharacterNameExcelTable.json",
     ]
     
     output_dir = Path("Excels")

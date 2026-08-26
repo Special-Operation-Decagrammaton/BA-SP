@@ -2,7 +2,7 @@ name: Parsing & Push Data
 
 on:
   schedule:
-    - cron: '0 19 * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 permissions:
@@ -52,6 +52,7 @@ jobs:
           cp -a CharacterScenario "$TEMP_DIR/"
           cp -a CharacterValentine "$TEMP_DIR/"
           cp -a MainStory "$TEMP_DIR/"
+          cp -a EventStory "$TEMP_DIR/"
           echo "temp_path=$TEMP_DIR" >> $GITHUB_OUTPUT
 
       - name: Switch Branch
@@ -64,14 +65,15 @@ jobs:
         shell: bash
         run: |
           TEMP_PATH="${{ steps.save_data.outputs.temp_path }}"
-          rm -rf CharacterMessanger CharacterScenario CharacterValentine MainStory
+          rm -rf CharacterMessanger CharacterScenario CharacterValentine MainStory EventStory
           cp -a "$TEMP_PATH/CharacterMessanger" .
           cp -a "$TEMP_PATH/CharacterScenario" .
           cp -a "$TEMP_PATH/CharacterValentine" .
           cp -a "$TEMP_PATH/MainStory" .
+          cp -a "$TEMP_PATH/EventStory" .
 
       - name: Commit and Push
         run: |
-          git add CharacterMessanger CharacterScenario CharacterValentine MainStory
+          git add CharacterMessanger CharacterScenario CharacterValentine MainStory EventStory
           git commit -m "Update Data: $(date +'%Y-%m-%d %H:%M:%S')" --allow-empty
           git push origin dump
